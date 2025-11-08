@@ -1,7 +1,9 @@
 # TCP Chat Server
 
 A simple TCP-based chat server built with Node.js.
-
+ 
+## Video link 
+https://www.loom.com/share/3e6c12722d974d84b5ee23b1c93a63e7
 ## How to Run the Server
 
 ### Dependencies
